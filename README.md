@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @James-dev23
 - 👀 I’m currently interested in frontend development
-- 🌱 I’m currently learning Sass
+- 🌱 I’m currently  learning Vue Js
 - 💞️ I’m looking to collaborate on any frontend  project
 - 📫 You can reach me through my e-mail: fatokejames@gmail.com
 
